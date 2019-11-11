@@ -15,5 +15,6 @@ Tooltip:"dmi3iy - AttachSelected"
   			)
   		)
   		update selection[1]
+	)
   	
 )
